@@ -1,0 +1,24 @@
+{
+  "name": "kiss-my-asset",
+  "version": "0.1.0",
+  "description": "KISS static site generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exys666/kiss-my-asset.git"
+  },
+  "main": "index.js",
+  "bin": "cli.js",
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "kiss"
+],
+  "author": "Bartosz Niziolek <exys666@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "vorpal": "^1.12.0",
+    "yargs": "^12.0.1"
+  }
+}
