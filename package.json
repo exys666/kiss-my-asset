@@ -1,6 +1,6 @@
 {
   "name": "kiss-my-asset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "KISS static site generator",
   "repository": {
     "type": "git",
